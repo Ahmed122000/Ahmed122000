@@ -9,7 +9,7 @@ I am a junior Software Engineer, another semester I will be a fully graduated st
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ahmedhesham122000@gmail.com](mailto:ahmedhesham122000@gmail.com)
 * 🧠  I'm learning Recommendation systems and Smart Contracts
-* 🤝  I'm open to collaborating on any back-end & database projects
+* 🤝  I'm open to collaborating on any Data science and ML projects
 
 <a href="https://www.github.com/Ahmed122000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ahmed122000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
