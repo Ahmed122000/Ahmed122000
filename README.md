@@ -8,7 +8,7 @@ I am a junior Software Engineer, another semester I will be a fully graduated st
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ahmedhesham122000@gmail.com](mailto:ahmedhesham122000@gmail.com)
-* 🧠  I'm learning AI (ML for specifiction) and Data science
+* 🧠  I'm learning AI (ML for specification) and Data science
 * 🤝  I'm open to collaborating on any Data science and ML projects
 
 <a href="https://www.github.com/Ahmed122000" target="_blank" rel="noreferrer"><img
