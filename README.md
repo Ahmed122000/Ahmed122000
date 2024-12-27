@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a junior Software Engineer, another semester I will be a fully graduated student. currently, I am a CSED student at the faculty of engineering, Alexandria university.
+I am a junior Software Engineer, Fresh graduate from the faculty of engineering, Alexandria university.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ahmedhesham122000@gmail.com](mailto:ahmedhesham122000@gmail.com)
 * 🧠  I'm learning Software Engineering
-* 🤝  I'm open to collaborating on any AI/ML or Backend projects
+* 🤝  I'm open to collaborating on any AI/ML or Spring-Boot projects
 
 <a href="https://www.github.com/Ahmed122000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ahmed122000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
