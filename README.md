@@ -204,10 +204,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/github/followers/Ahmed122000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Ahmed122000">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed122000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ahmed122000's GitHub stats" />
 </a>
+
+### Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed122000&theme=onedark)
