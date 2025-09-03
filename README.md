@@ -1,98 +1,92 @@
-# 👋 Hello, I'm Ahmed Hesham!
+# 👨‍💻 Ahmed Hesham | Software Engineer
 
-🎓 **Fresh Graduate Software Engineer** from Faculty of Engineering, Alexandria University  
-💻 Passionate about Software Development, AI, and Web Applications  
-🌍 Based in Egypt  
-
----
-
-## 🛠️ Technical Skills
-
-### **Programming Languages**
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
-  <a href="https://www.w3.org/TR/html5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Back-End+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
+
+## 🚀 About Me
+
+I'm a passionate Software Engineer and recent Computer Engineering graduate from Alexandria University, Egypt. I love transforming complex problems into elegant solutions through code. My interests span across artificial intelligence, web development, and building scalable systems.
+
+- 🔭 I'm currently working on **Back-end projects**
+- 🌱 I'm learning **Advanced Spring-boot**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **Python, Java, or ML fundamentals**
+- ⚡ Fun fact: I enjoy reverse engineering Unix tools for fun!
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### **Frameworks & Libraries**
-<p align="left">
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /></a>
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### **Tools & Technologies**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### [URL Shortener](https://github.com/Ahmed122000/URL_Shortener)
-A full-stack URL shortening service with Docker support, deployed on Render (back-end) and Vercel (front-end).
-
-### [Booking Scraper](https://github.com/Ahmed122000/Hotels_Scraper)
-Python-based web scraper for extracting hotel data from Booking.com with a Flask API for data retrieval.
-
-### [UNIX Tools](https://github.com/Ahmed122000/Unix_Tools)
-Custom implementations of popular Unix command-line tools (cat, wc, etc.) for educational purposes.
-
-### [ML Model Deployment](https://github.com/Ahmed122000/ML_model_deployment)
-Flask web application for predicting data scientist retention with model training and evaluation capabilities.
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed122000&show_icons=true&theme=dark&hide_border=true" alt="Ahmed's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed122000&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed122000&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed122000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed122000&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed122000&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
+
+## 🏆 Projects
+
+### 🔗 [URL Shortener](https://github.com/Ahmed122000/URL_Shortener)
+Full-stack URL shortening service with Docker support, deployed on Render and Vercel.
+
+### 🏨 [Booking Scraper](https://github.com/Ahmed122000/Hotels_Scraper)
+Python-based web scraper for extracting hotel data from Booking.com with Flask API.
+
+### 🐧 [UNIX Tools](https://github.com/Ahmed122000/Unix_Tools)
+Custom implementations of popular Unix command-line tools for educational purposes.
+
+### 🤖 [ML Model Deployment](https://github.com/Ahmed122000/ML_model_deployment)
+End-to-end machine learning model deployment with Flask web interface.
+
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed122000&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🌐 Portfolio & Contact
-
-- 🔗 **Portfolio**: [ahmed122000.github.io/Portfolio](https://ahmed122000.github.io/Portfolio/)
-- 📧 **Email**: [ahmedhesham122000@gmail.com](mailto:ahmedhesham122000@gmail.com)
-- 💼 **LinkedIn**: [Ahmed Hesham](https://www.linkedin.com/in/ahmed-hesham-7978481b4/)
-
-<p align="left">
   <a href="https://www.linkedin.com/in/ahmed-hesham-7978481b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedhesham122000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ahmed122000">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://ahmed122000.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐️ *From [Ahmed122000](https://github.com/Ahmed122000)*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed122000&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Ahmed122000?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ahmed122000?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
+
+<p align="center"> 
+  <i>"First, solve the problem. Then, write the code."</i> – John Johnson
+</p>
