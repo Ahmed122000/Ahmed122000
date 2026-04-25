@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Ahmed Hesham</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Back-End+Engineer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Back-End+Engineer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
