@@ -71,7 +71,7 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
 | **🛍️ Commerce** | Full-featured eBay-style auction platform with real-time bidding, watchlists & comments | `Django` `Python` `SQLite` | [Repo](https://github.com/Ahmed122000/Commerce) |
-| **📊 Data Intensive System** | Real-time weather data streaming with Elasticsearch, Kibana & Kubernetes orchestration | `Java` `Kubernetes` `Docker` `Elasticsearch` | [Repo](https://github.com/Ahmed122000/Data_Intensive_project) |
+| **📊 Data Intensive System** | Real-time weather data streaming with Elasticsearch, Kibana & Kubernetes orchestration | `Java` `Kubernetes` `Docker` `Elasticsearch` | [Repo](https://github.com/015525/Data_Intensive_project) |
 | **🎮 Game Engine** | Custom game engine supporting multiple games with HTML5 Canvas & JavaScript | `JavaScript` `HTML5` `CSS3` | [Repo](https://github.com/Ahmed122000/Game-Engine) |
 | **♟️ Chess** | Console-based chess engine with move validation, check/checkmate detection & save/load | `C` `Game Logic` | [Repo](https://github.com/Ahmed122000/chess) |
 | **🤖 ML Model Deployment** | HR Analytics job change predictor with full ML pipeline & Flask web interface | `TensorFlow` `Python` `Flask` | [Repo](https://github.com/Ahmed122000/ML_model_deployment) |
