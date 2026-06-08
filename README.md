@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔭%20Building-Scalable%20Systems-22d3ee?style=flat-square&labelColor=0f1318" />
-  <img src="https://img.shields.io/badge/🌱%20Learning-Advanced%20Architectures-4ade80?style=flat-square&labelColor=0f1318" />
+  <img src="https://img.shields.io/badge/🌱%20Learning-Devops%20tools-4ade80?style=flat-square&labelColor=0f1318" />
   <img src="https://img.shields.io/badge/🤝%20Open%20to-Collaborate-a78bfa?style=flat-square&labelColor=0f1318" />
   <img src="https://img.shields.io/badge/📍-Alexandria%2C%20Egypt-fb923c?style=flat-square&labelColor=0f1318" />
 </p>
@@ -17,9 +17,9 @@
 
 > **Computer Engineering graduate from Alexandria University** | Building scalable back-end systems, deploying ML models, and crafting elegant solutions to complex problems.
 
-- 🔭 Currently building **full-stack applications and microservices** with Spring Boot & Django
+- 🔭 Currently building **full-stack applications** with Spring Boot & Django
 - 🤖 Passionate about **AI, Machine Learning, and System Design**
-- 🐧 Deep dive into **operating systems, algorithms, and Unix internals**
+- 🐧 Deep dive into **Data Structures and algorithms**
 - 💡 Experienced with **web scraping, data pipelines, and real-time systems**
 - 🎮 Created **game engines and interactive applications**
 - 💬 Ask me about **Python, Java, JavaScript, ML, or System Design**
